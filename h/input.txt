@@ -1,0 +1,12 @@
+a b
+aa ba
+aa ab
+a aa
+aaa a
+apple apple
+apple tuple
+apple fapple
+fapple apple
+apple apricot
+suffix prefix
+asjdlkasjkfbhsdfopwejfojlsdkfjksjdlfsdfksdjhfweiofsdknfsdfnwkoejfoidndklxnklgwnonlcnlvmpqopriglnqkeopjsdlkjsldfjsdfds asjdlkasjkfbhsdfopwejfojlsdkfjksjdlfsdfksdjhfweiofsdknfsdfnwkoejfoidndklxnklgwnonlcnlvmpqopriglnqkeopjsdlkjsldfjsdfds
